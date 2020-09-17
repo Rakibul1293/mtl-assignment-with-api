@@ -1,0 +1,49 @@
+Front End Developer Assessment
+Time: 5 Hours
+
+Summary
+You will build a contact management application for Bangladeshi users. There will be a
+person's list with search and filter options. A form for inserting a person's information.
+We encourage you to focus more on functionality & features then styling.
+
+Feature Details
+1. Login Page
+2. Signup Page
+3. Home Page:
+a. List of all persons.
+b. Search by Name.
+c. Filter by District.
+4. Person Details Page
+5. Person Form/Add Person page
+
+Rules & Tech
+1.
+2.
+3.
+4.
+
+5.
+6.
+7.
+8.
+9.
+
+Follow best practices and patterns.
+For all forms use validation.
+You should use React or Vanilla JS. We prefer React.
+If you are using React then use a. Controlled form.
+b. React Router​ for routing.
+c. axios​ for API request handling.
+d. Ant Design​ for the UI component. (Optional)
+e. Redux​ for authentication state management. (Optional)
+It's not mandatory to complete all of the features.
+If you complete all of the features you’ll get preference.
+Early submission will be considered.
+Push your project to ​Github​.
+Host your project on ​Netlify​ or github pages or elsewhere & share the link. (Optional)
+
+Connect to Server
+You will use a local json server to connect your application. You don't have to upload data /
+server. Follow ​this​ link for further details.
+
+

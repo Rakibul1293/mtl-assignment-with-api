@@ -1,0 +1,37 @@
+.show-img h1 {
+	margin-bottom: -1.5rem!important;
+}
+
+.show-img form {
+	margin: auto;
+	max-width: 300px;
+}
+
+.show-img form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+.show-img form.example button {
+  width: 37%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  margin-left: 61px;
+  margin-top: 15px;
+}
+
+.show-img form.example button:hover {
+  background: #0b7dda;
+}
+
+.show-img img {
+	width: 100%;
+}
